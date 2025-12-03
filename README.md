@@ -38,11 +38,13 @@ index.html
 style.css
 
 your truck.png
+<img width="1920" height="1080" alt="Image" src="https://github.com/user-attachments/assets/267230ab-4518-447e-bef9-fefb0fb9b27d" />
 
 
 
 Open index.html in any modern browser.
 
 That's it! The animation will start automatically.
+
 
 
